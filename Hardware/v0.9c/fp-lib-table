@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name 3PDT)(type KiCad)(uri e:/OneDrive/Documents/KiCad/SparkFun-KiCad-Libraries-master/Footprints/Switches.pretty)(options "")(descr ""))
+  (lib (name MyLibraries)(type KiCad)(uri e:/OneDrive/Documents/KiCad/MyLibraries.pretty)(options "")(descr ""))
+)

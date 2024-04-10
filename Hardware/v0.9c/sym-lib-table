@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "3PDT")(type "Legacy")(uri "e:/OneDrive/Documents/KiCad/SparkFun-KiCad-Libraries-master/Libraries/SparkFun-Switches.lib")(options "")(descr ""))
+  (lib (name "mysymbols")(type "Legacy")(uri "e:/OneDrive/Documents/KiCad/MyLibraries.pretty/mysymbols.lib")(options "")(descr ""))
+  (lib (name "BoostBoard-rescue")(type "KiCad")(uri "${KIPRJMOD}/BoostBoard-rescue.kicad_sym")(options "")(descr ""))
+)
